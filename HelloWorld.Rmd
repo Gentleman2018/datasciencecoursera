@@ -4,8 +4,4 @@ author: "Gentleman2018"
 date: "9/17/2018"
 output: html_document
 ---
-### This is a Test Markdown Document for Data Science Coursera Course
-
-* first item
-* second item
-* third item
+## This is a markdown file
